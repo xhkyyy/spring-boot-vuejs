@@ -29,6 +29,11 @@ This project is used as example in a variety of articles & as eBook:
 
 [blog.codecentric.de/en/2018/04/spring-boot-vuejs](https://blog.codecentric.de/en/2018/04/spring-boot-vuejs) | [JavaMagazin 8.2018](https://jaxenter.de/ausgaben/java-magazin-8-18) | [entwickler.press shortcuts 229](https://www.amazon.com/Vue-js-f%C3%BCr-alle-Wissenswertes-Einsteiger-ebook/dp/B07HQF9VX4/ref=sr_1_1?ie=UTF8&qid=1538484852&sr=8-1&keywords=Vue-js-f%C3%BCr-alle-Wissenswertes-Einsteiger-ebook) | [softwerker Vol.12](https://info.codecentric.de/softwerker-vol-12)
 
+## 更新
+
++ 使用本机安装的 npm/node，将 `frontend-maven-plugin` 替换成 `exec-maven-plugin`
+
+
 ## Table of Contents  
 * [In Search of a new Web Frontend-Framework after 2 Years of absence...](#in-search-of-a-new-web-frontend-framework-after-2-years-of-absence)
 * [Setup Vue.js & Spring Boot](#setup-vuejs--spring-boot)
