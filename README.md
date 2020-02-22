@@ -32,7 +32,7 @@ This project is used as example in a variety of articles & as eBook:
 ## 更新
 
 + 使用本机安装的 npm/node，将 `frontend-maven-plugin` 替换成 `exec-maven-plugin`
-
++ `run_backend.sh` 、`run_frontend.sh`
 
 ## Table of Contents  
 * [In Search of a new Web Frontend-Framework after 2 Years of absence...](#in-search-of-a-new-web-frontend-framework-after-2-years-of-absence)
